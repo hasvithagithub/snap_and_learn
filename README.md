@@ -37,4 +37,4 @@ Snap & Learn AI is a pocket-sized educational companion designed to make learnin
 The app features a responsive design, working seamlessly on both desktop and mobile devices.
 
 ---
-Created with ❤️ for curious minds.
+
